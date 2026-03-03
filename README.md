@@ -16,7 +16,7 @@ Desarrollar competencias en el uso de **entornos Linux** y **programación en C/
 
 ## 🚀 ¿Qué se espera lograr?
 
-Al finalizar esta materia, se espera que el estudiante sea capaz de:
+Al finalizar esta materia, se espera que:
 
 ### 🐧 Administración en Linux
 - Manejar el sistema operativo desde la **línea de comandos**.
@@ -37,7 +37,7 @@ Al finalizar esta materia, se espera que el estudiante sea capaz de:
 
 ---
 
-## 🧠 Competencias Desarrolladas
+## 🧠 Competencias a Desarrollar
 
 - ✔ Implementación de algoritmos en entornos de desarrollo.
 - ✔ Resolución de problemas aplicados a hardware simulado.
@@ -57,26 +57,3 @@ Shell Script
 C
 C++
 ```
-
----
-
-## 📈 Enfoque de la Materia
-
-La asignatura combina:
-
-- 📖 Clase magistral  
-- 🧩 Aprendizaje basado en problemas  
-- 🔬 Prácticas de laboratorio  
-- 👥 Code review entre pares  
-- 📚 Investigación dirigida  
-
----
-
-## 🎓 Resultado Final
-
-El estudiante adquiere una **base sólida en programación de bajo nivel**, preparándose para el desarrollo de:
-
-- Sistemas embebidos  
-- Firmware  
-- Aplicaciones de control  
-- Optimización de recursos en hardware  
