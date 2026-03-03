@@ -6,8 +6,6 @@ ESte repositorio sera utilizado para todas la presentacion de las tareas designa
 * *Nombre Completo:* ANDRES GALLARDO GARCIA 
 * *Asignatura:* PROGRAMACION SUPERIOR/IMT-131/2-2026
 
-# 📘 Firmware & Embedded Systems Development  
-
 ## 🎯 Objetivo de la Materia  
 
 Desarrollar competencias en el uso de **entornos Linux** y **programación en C/C++** para la implementación de algoritmos orientados a **sistemas embebidos**, garantizando un manejo eficiente de recursos computacionales y una base sólida para el desarrollo de firmware y software aplicado a controladores de distintas tecnologías.
