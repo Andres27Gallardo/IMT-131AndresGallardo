@@ -1,0 +1,16 @@
+[drwxrwxr-x]  .
+├── [-rw-rw-r--]  comandos.txt
+├── [drwxrwxr-x]  CONSIGNA
+│   └── [-rw-rw-r--]  instrucciones.txt
+├── [drwxrwxr-x]  data
+│   ├── [-rwxr-xr-x]  .COMUNICADO.txt
+│   └── [-r-xr-xr-x]  Instrucciones_Practica.pdf
+├── [drwxrwxr-x]  docs
+├── [-rw-rw-r--]  estructura.txt
+├── [drwxrwxr-x]  INSTRUCCIONES
+├── [drwxrwxr-x]  logs
+│   └── [-r--r--r--]  sistema.log
+└── [drwxrwxr-x]  src
+    └── [-rwx------]  check_engine.sh
+
+7 directories, 7 files

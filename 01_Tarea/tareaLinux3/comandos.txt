@@ -1,0 +1,30 @@
+  316  cd tareaLinux3/
+  317  ls
+  318  mkdir logs
+  319  ls
+  320  cd logs/
+  321  hostname > sistema.log
+  322  whoami >> sistema.log 
+  323  uptime >> sistema.log 
+  324  cat sistema.log 
+  325  chmod 444 sistema.log 
+  326  ls -l
+  327  cd ..
+  328  mkdir src docs data
+  329  ls -l
+  330  mv .consigna/Instrucciones_Practica.pdf  data/
+  331  mv .consigna/.COMUNICADO.txt data/
+  332  ls data
+  333  tree -pa
+  334  rm -r .consigna/
+  335  ls -a
+  336  cd src/
+  337  touch check_engine.sh
+  338  nano check_engine.sh 
+  339  ls -l
+  340  chmod 700 check_engine.sh 
+  341  ls -l
+  342  ./check_engine.sh 
+  343  cd ..
+  344  hisotory 30 > comandos.txt
+  345  history 30 > comandos.txt
