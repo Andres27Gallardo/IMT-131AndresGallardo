@@ -1,0 +1,2 @@
+error: archivo no encontrado
+error: memoria llena

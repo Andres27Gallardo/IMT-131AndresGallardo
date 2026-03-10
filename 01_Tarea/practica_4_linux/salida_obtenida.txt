@@ -1,0 +1,22 @@
+error: memoria llena
+error: archivo no encontrado
+info: proceso iniciado
+info: proceso terminado
+cat: ejercicio_3.txt: No existe el archivo o el directorio
+2
+ana
+ana
+juan
+juan
+maria
+pedro
+./datos/ejercicio_1.txt
+./datos/ejercicio_5.txt
+./datos/ejercicio_2.txt
+./datos/ejercicio_6.txt
+./datos/log.txt
+./datos/nombres.txt
+./datos/ejercicio_4.txt
+8
+error: archivo no encontrado
+error: memoria llena

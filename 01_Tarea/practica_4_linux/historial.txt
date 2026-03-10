@@ -1,0 +1,30 @@
+  345  echo "info: proceso terminado" >> log.txt
+  346  ls
+  347  cd ..
+  348  grep error log.txt 
+  349  cd datos/
+  350  ls
+  351  grep error log.txt
+  352  grep error log.txt > ejercicio_1.txt
+  353  cat ejercicio_1.txt 
+  354  grep info log.txt 
+  355  grep info log.txt > ejercicio_2.txt
+  356  wc -l nombres.txt 
+  357  wc -l nombres.txt > ejercicio_3_txt
+  358  grep ana nombres.txt | wc -w 
+  359  grep ana nombres.txt | wc -w  > ejercicio_4.txt
+  360  sort nombres.txt 
+  361  sort nombres.txt > ejercicio_5.txt
+  362  cd ..
+  363  find -name "*.txt"
+  364  find -name "*.txt" > datos/ejercicio_6.txt
+  365  cd datos/
+  366  ls
+  367  cd ..
+  368  find -name "*.txt"| wc -w
+  369  find -name "*.txt"| wc -w > datos/ejercicio_7.txt
+  370  cd datos/
+  371  cd ..
+  372  grep error datos/log.txt | sort 
+  373  grep error datos/log.txt | sort > datos/ejercicio_8.txt
+  374  history 30 > historial.txt

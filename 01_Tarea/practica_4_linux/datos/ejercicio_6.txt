@@ -1,0 +1,7 @@
+./datos/ejercicio_1.txt
+./datos/ejercicio_5.txt
+./datos/ejercicio_2.txt
+./datos/ejercicio_6.txt
+./datos/log.txt
+./datos/nombres.txt
+./datos/ejercicio_4.txt
