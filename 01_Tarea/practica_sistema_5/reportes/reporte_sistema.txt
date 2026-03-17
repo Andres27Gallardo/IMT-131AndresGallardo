@@ -1,0 +1,11 @@
+7 datos/usuarios.txt
+0 datos/
+7 datos/accesos.log
+7 datos/accesos.log
+ana
+ana
+juan
+juan
+lucas
+maria
+pedro

@@ -1,0 +1,100 @@
+  356  wc -l nombres.txt 
+  357  wc -l nombres.txt > ejercicio_3_txt
+  358  grep ana nombres.txt | wc -w 
+  359  grep ana nombres.txt | wc -w  > ejercicio_4.txt
+  360  sort nombres.txt 
+  361  sort nombres.txt > ejercicio_5.txt
+  362  cd ..
+  363  find -name "*.txt"
+  364  find -name "*.txt" > datos/ejercicio_6.txt
+  365  cd datos/
+  366  ls
+  367  cd ..
+  368  find -name "*.txt"| wc -w
+  369  find -name "*.txt"| wc -w > datos/ejercicio_7.txt
+  370  cd datos/
+  371  cd ..
+  372  grep error datos/log.txt | sort 
+  373  grep error datos/log.txt | sort > datos/ejercicio_8.txt
+  374  history 30 > historial.txt
+  375  cd datos/
+  376  cat ejercicio_1.txt ejercicio_2.txt
+  377  cat ejercicio_1.txt ejercicio_2.txt ejercicio_3.txt ejercicio_4.txt ejercicio_5.txt ejercicio_6.txt ejercicio_7.txt ejercicio_8.txt
+  378  cd ..
+  379  short salida_obtenida.txt
+  380  touch salida_obtenida.txt
+  381  nano salida_obtenida.txt 
+  382  cat salida_obtenida.txt 
+  383  cat historial.txt 
+  384  cd ..
+  385  git status 
+  386  git add .
+  387  git commit -m "Tarea_4"
+  388  gir push origin main
+  389  git push origin main
+  390  hisrtory
+  391  history
+  392  ls -la datos/
+  393  find -name "*.txt"
+  394  find -name "*.log"
+  395  datos/
+  396  cd datos/
+  397  ls -a
+  398  cat accesos.txt 
+  399  rm accesos.txt 
+  400  ls
+  401  touch accesos.log
+  402  nano accesos.log 
+  403  cd ..
+  404  find -name "*.log"
+  405  find -name "*.txt" | wc 
+  406  cd datos/
+  407  grep error accesos.log 
+  408  grep error accesos.log | wc
+  409  grep error accesos.log | wc accesos.log 
+  410  sort usuarios.txt 
+  411  grep error accesos.log | sort
+  412  nano accesos.log 
+  413  grep error accesos.log | sort
+  414  cd ..
+  415  cd reportes/
+  416  cd ..
+  417  cd datos/
+  418  wc -l usuarios.txt 
+  419  cd ..
+  420  datos/ wc -l usuarios.txt 
+  421  datos/ wc -l usuarios.txt >> reportes/resporte_sistema.txt
+  422  datos wc -l usuarios.txt >> reportes/resporte_sistema.txt
+  423  wc -l datos/usuarios.txt >> reportes/resporte_sistema.txt
+  424  cd reportes/
+  425  ls-la
+  426  ls -la
+  427  cat resporte_sistema.txt 
+  428  cd ..
+  429  grep  error accesos.log datos/
+  430  datos/ grep error accesos.log
+  431  cd datos/
+  432  greep error accesos.log | wc
+  433  grep error accesos.log | wc
+  434* grep error accesos.log | wc -w datos >> reportes
+  435  cd ..
+  436  cd datos/
+  437  greep error accesos.log | wc -l
+  438  grep error accesos.log | wc -l
+  439  cd ..
+  440  grep error accesos.log | wc -l datos/ >> reportes/reporte_sistema.txt 
+  441  grep error accesos.log | wc -l datos/accesos.log >> reportes/reporte_sistema.txt 
+  442  grep error datos/accesos.log | wc -l datos/accesos.log >> reportes/reporte_sistema.txt 
+  443  sort datos/usuarios.txt >> reportes/reporte_sistema.txt 
+  444  cat reportes/reporte_sistema.txt 
+  445  cd scripts/
+  446  touch analisis.sh
+  447  nano analisis.sh 
+  448  ./ analisis.sh 
+  449  nano analisis.sh 
+  450  sudo chmod 777 analisis.sh 
+  451  ./ analisis.sh 
+  452  ./analisis.sh 
+  453  cd ..
+  454  history 50 >> comandos_practica.txt
+  455  history 100 >> historial_practica.txt

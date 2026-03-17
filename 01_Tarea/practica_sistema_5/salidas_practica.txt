@@ -1,0 +1,40 @@
+Ejercicio_1
+drwxrwxr-x 2 galgar galgar 4096 mar 12 16:20 backup
+drwxrwxr-x 2 galgar galgar 4096 mar 12 16:20 datos
+drwxrwxr-x 2 galgar galgar 4096 mar 12 16:20 reportes
+drwxrwxr-x 2 galgar galgar 4096 mar 12 16:20 scripts
+Ejercicio_2
+drwxrwxr-x 2 galgar galgar 4096 mar 12 16:23 .
+drwxrwxr-x 6 galgar galgar 4096 mar 12 16:20 ..
+-rw-rw-r-- 1 galgar galgar  216 mar 12 16:28 accesos.txt
+-rw-rw-r-- 1 galgar galgar   36 mar 12 16:22 usuarios.txt
+Ejercicio_3
+drwxrwxr-x 2 galgar galgar 4096 mar 12 16:23 .
+drwxrwxr-x 6 galgar galgar 4096 mar 12 16:20 ..
+-rw-rw-r-- 1 galgar galgar  216 mar 12 16:28 accesos.txt
+-rw-rw-r-- 1 galgar galgar   36 mar 12 16:22 usuarios.txt
+Ejercicio_4:
+./datos/usuarios.txt
+Ejercicio_5:
+./datos/accesos.log
+Ejercicio_6:
+      1       1      21
+Ejercicio_7:
+error: contraña incorrecta juan
+error: usuario no encontrado carlos
+error: contraseña incorrecta ana
+Ejercicio_8:
+     3      13     103
+Ejercicio_9:
+
+Ejercicio_10:
+ana
+ana
+juan
+juan
+lucas
+maria
+pedro
+Ejercicio_11:
+7 usuarios.txt
+Ejercicio_12:
