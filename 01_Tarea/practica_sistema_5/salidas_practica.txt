@@ -26,7 +26,9 @@ error: contraseña incorrecta ana
 Ejercicio_8:
      3      13     103
 Ejercicio_9:
-
+info: login correcto ana
+info: login correcto maria
+info: login correcto lucas
 Ejercicio_10:
 ana
 ana
@@ -38,3 +40,6 @@ pedro
 Ejercicio_11:
 7 usuarios.txt
 Ejercicio_12:
+error: contraseña incorrecta juan
+error: usuario no encontrado carlos
+error: contraseña incorrecta ana
