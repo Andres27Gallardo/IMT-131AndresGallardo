@@ -1,3 +1,0 @@
-La estructura final debe ser ordenada y consistente.
-Los nombres de archivos deben coincidir exactamente con la consigna.
-La salida debe ser normalizada para facilitar la correccion.
